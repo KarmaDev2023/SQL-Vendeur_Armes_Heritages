@@ -1,7 +1,7 @@
 # Vendeur-Armes-Heritages
 SQL du vendeur armes heritages
 
-For AzerothCore !
+Pour / For AzerothCore - Wotlk 3.3.5 12340 
 
 ---------------------------------------------------------------------------------
 
