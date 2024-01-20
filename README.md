@@ -1,6 +1,8 @@
 # Vendeur-Armes-Heritages
 SQL du vendeur armes heritages
 
+For AzerothCore !
+
 ---------------------------------------------------------------------------------
 
 NPC Id : 9000000 - Vendeur Armes Heritages
