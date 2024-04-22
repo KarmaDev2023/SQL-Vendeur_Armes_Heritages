@@ -15,13 +15,13 @@ NPC Id : 9000000 - Vendeur Armes Heritages
 
 Français :
 
-Insérez le SQL dans la table acore_world de votre serveur à l'aide de Heidisql.
+Insérez le SQL dans la table acore_world de votre serveur à l'aide de Navicate.
 
 ---------------------------------------------------------------------------------
 
 English :
 
-Insert SQL to acore_world table in your server with Heidisql.
+Insert SQL to acore_world table in your server with Navicate.
 
 ---------------------------------------------------------------------------------
 
